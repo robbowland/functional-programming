@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-<img src="https://github.com/robbowland/functional-programming/blob/main/.github/img/heading.png?raw=true" alt="functional-programming" width="800">
+<img src="https://github.com/robbowland/functional-programming/blob/main/.github/img/heading.png?raw=true" alt="functional-programming" width="900">
   <br>
 </h1>
 
